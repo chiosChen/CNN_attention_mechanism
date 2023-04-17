@@ -1,1 +1,3 @@
-# CNN_attention_mechanism
+# CNN-attentionMechanism
+
+A novel mothod of directing neural networks to attend target objects
